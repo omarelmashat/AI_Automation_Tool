@@ -14,7 +14,7 @@ records everything in a CSV log.
 
 <p align="center">
   <img src="screenshots/screenshot-upload.png" width="48%">
-  <img src="screenshots/screenshot-results.png" width="48%">
+  <img src="screenshots/screenshot-result.png" width="48%">
 </p>
 
 ## How it works
