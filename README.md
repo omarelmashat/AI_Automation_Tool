@@ -4,17 +4,9 @@ A Python tool that reads text files from an inbox folder, uses the Cohere API
 to classify and summarize each one, moves it into a category folder, and
 records everything in a CSV log.
 
-**Upload and classify**
-
-![Upload pave](screenshots/screenshot_upload.png)
-
-**Results**
-
-![Results and table chart](screenshots/screenshot_result.png)
-
 <p align="center">
-  <img src="screenshots/screenshot-upload.png" width="48%">
-  <img src="screenshots/screenshot-result.png" width="48%">
+  <img src="screenshots/screenshot_upload.png" width="48%">
+  <img src="screenshots/screenshot_result.png" width="48%">
 </p>
 
 ## How it works
