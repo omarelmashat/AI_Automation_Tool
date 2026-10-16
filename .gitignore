@@ -19,3 +19,6 @@ __pycache__/
 organized/
 log.csv
 results.csv
+
+!screenshots/
+!screenshots/*.png
