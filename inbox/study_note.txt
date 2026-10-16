@@ -1,0 +1,1 @@
+Midterm exam for Data Structures is on Nov 12. Review chapters 4 to 7 and practice tree traversal.
